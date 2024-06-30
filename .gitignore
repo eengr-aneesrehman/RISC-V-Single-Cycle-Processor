@@ -1,0 +1,8 @@
+# Ignore vivado project files
+*.xpr
+
+# Ignore build directories
+/RISCV_SC.cache
+/RISCV_SC.hw
+/RISCV_SC.ip_user_files
+/RISCV_SC.sim
